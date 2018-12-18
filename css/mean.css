@@ -1,0 +1,123 @@
+/* =====style===== */
+body{
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+		overflow: hidden;
+
+}
+/* =====style_defolt===== */
+* {
+	-moz-transition: all 0.3s ease;
+	-webkit-transition-property: all;
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-timing-function: ease;
+}
+
+a, a:hover, a:active, a:focus,
+button, input, button:hover, button:active, button:focus,
+input:focus, input:active {
+	text-decoration: none;
+	outline: none;
+	color: none;
+}
+.whites{
+	color: white;
+	padding: 10px;
+}
+.shrift52{
+	font-size: 52px;
+}
+.shrift36{
+	font-size: 36px;
+}
+.shrift30{
+	font-size: 30px;
+}
+.shrift28{
+	font-size: 28px;
+}
+.shrift24{
+	font-size: 24px;
+}
+.shrift22{
+	font-size: 22px;
+}
+.shrift20{
+	font-size: 20px;
+}
+.shrift18{
+	font-size: 18px;
+}
+.shrift16{
+	font-size: 16px;
+}
+.shrift14{
+	font-size: 14px;
+}
+.shrift12{
+	font-size: 12px;
+}
+
+/* =====style===== */
+.logo{
+	font-size: 2.4285714285714284rem;
+	color: white;
+	padding-right: 218px;
+}
+
+.nav-link{
+	font-size: 1rem;
+	padding-right: 28px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+	padding-right: 28px;
+}
+/* header{
+	background: url('../img/mountain.png')no-repeat center top;
+	height: 100vh;
+} */
+.navbar{
+	box-shadow: none;
+	color: none;
+}
+nav{
+	position: relative;
+	
+}
+/* =====slick===== */
+.your-class{
+	margin-left: -350px;
+	position: absolute;
+	width: 1920px;
+	height: 100vh;
+}
+.slick-next{
+	background: url(../img/forward.png);
+	height: 30px;
+	width: 30px;
+	right: 80px;
+}
+
+.slick-prev{
+	display: flex;
+	align-items: center;
+	background: url(../img/backward.png);
+	height: 30px;
+	width: 30px;
+	left: 160px;
+	z-index: 100;
+}
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+http://veented.info/waxom/home-portfolio-veented-slider/
+
